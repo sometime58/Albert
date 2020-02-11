@@ -1,0 +1,30 @@
+* exercise notes 
+** 12 
+- minus a negative number -(-3) = positive number +3 
+** 13 (p = 14.7 +3 0.439d) 
+- when solving problems with an equation indicating mathematical
+  relations: 
+- 1) read the variables, what they stand for and what are their
+  disparate units 
+- 2) draw the graph for the equation to visualise 
+- 3) try specific values (d = 0, 1, 2) to help understand better how
+  variables co-change 
+- 4) solve for the value in question 
+** 18 
+- when unknown variable(s) in denominator, try to move to the
+  numerator on the other side of the equation by multiplying both
+  sides with the denominator 
+** 19 
+- sin = opposite side/hypotenuse 
+- cos = neigbouring side/hypotenuse 
+- 2 acute angles x, y in a straight triangle, sin x = cos y, cos x =
+  sin y 
+** 20 
+- when having both sides of the equation in the same format,
+  correspond the constants from each side to find the values for
+  constant variables
+* technique 
+** read through the question 
+** highlight important pieces of information 
+** design valid approaches 
+** carry out your planned process to find the answer 

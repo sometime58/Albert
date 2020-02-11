@@ -1,0 +1,57 @@
+* getting to know 
+** educational background 
+- international school (cons/music) 
+- musical production/e music comp (cool software) 
+- sophomore year 
+- high school in Kent 
+- int school (7, 8) in BJ 
+- Scotstorch (electronic) 
+- Bach 
+** travelling 
+- Europe (France, Italy) 
+- Sri Lanka 
+- Thailand 
+- Canada 
+- US (Kentucky, NY, New Jersey, Ohio) 
+** hobbies 
+- playing video games (health bar; healing items; bandages/camp
+  fire/med kits) 
+- playing the piano (notes -> lengths; musical theories; musical
+  periods/rythm) 
+- youtube videos (channel subscription; analytics; visualisation) 
+** friends and life 
+- a friend you can trust with all secrets (instability) 
+- a book/piece of writing that you would take to your grave
+  (manifestation miracle) 
+- a movie/show you can watch over and over again (spiderman; song by
+  Melone & Lee) (super heroes) 
+* about SAT & general learning 
+** useful resources 
+- https://www.desmos.com/calculator 
+- https://www.khanacademy.org/ (LSAT) 
+** 3 mistakes commonly made in SAT 
+*** thinking you're done with the problem, but you're not 
+- most of the time, on the SAT you DO NOT solve for an independent
+  variable 
+- x^2 + y^2 = 153; y = -4x 
+- if (x, y) is a solution to the system of equations above, what is
+  the value of x^2 (2x - 3)? 
+*** not reading carefully enough 
+- Jane and three of her friends split the cost of gas on a road
+  trip. If then total amount of gas they purchased was $32, how much
+  did each pay? (10.6666 -> 11 (dollar) -> 10.67 (cent) Jane and 2 other friends round it to the nearest
+  dollar/cent)) 
+- boys and girls are in a ratio of 4 to 7 ... (4/11 kids are boys) 
+- shoes are on sale - original price $120, now price is $100
+  (percentage of discount) (120 - 100)/120 * 100 % (0.1 -> 0.1 * 100 =
+  10 -> 10%) 
+*** giving up 
+- you do not lose points giving a wrong answer 
+- strategies (maybe skip the hardest questions and come back to them
+  later) 
+* general tips 
+- do not need to memorise a lot for maths 
+- clarify and be certain about everything before moving on 
+- when approaching practice tests, try to think about what each
+  question is asking 
+- math 
